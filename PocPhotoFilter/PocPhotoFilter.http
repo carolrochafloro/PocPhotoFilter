@@ -1,0 +1,6 @@
+@PocPhotoFilter_HostAddress = http://localhost:5172
+
+GET {{PocPhotoFilter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
